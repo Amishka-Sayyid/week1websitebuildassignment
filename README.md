@@ -32,9 +32,24 @@ Assignment reflection required
 
         Required
         🎯 What requirements did you achieve?
+                *done the user stories with all its requirements.
+                *for stretch goals done with 2 left with 3.
+
+
         🎯 Were there any requirements or goals that you were unable to achieve?
         🎯 If so, what was it that you found difficult about these tasks?
         Requesting feedback about a specific part of your submission.
         What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
+                *before doing the assignment i watched the bro code tutorial on full html and css to consolidate the knowledge on them.
+                *did the html course on codeacademy(halfway through).
+                *flexbox froggy game.
+                *the flexbox adventure game on coding fantasy(finished the 1st mode)
+                *finished the css diner (https://flukeout.github.io/)
+
+
         What errors or bugs did you encounter while completing your assignment? How did you solve them?
         What went really well and what could have gone better?
+                *errors encountered was on css and what really helped me was the dev tool temporarily applying and editting the style there to see the changes it brought about especially the navbar and the text's inside the image helped a lot.
+                *for the audio found from the below link that i needed to make the display none as i had done the audio in html nxt just need to make the autoplay true.
+                https://stackoverflow.com/questions/15533636/playing-sound-in-hidden-tag
+                learnt about it while doing the codeacademy html course.
