@@ -41,7 +41,7 @@ Assignment reflection required
         🎯 If so, what was it that you found difficult about these tasks?
         Requesting feedback about a specific part of your submission.
         What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
-                *before doing the assignment i watched the bro code tutorial on full html and css to consolidate the knowledge on them.
+                *before doing the assignment i watched the bro code tutorial on full html and css(nearly done 1hr left from 4hr video) to consolidate the knowledge on them.
                 *did the html course on codeacademy(halfway through).
                 *flexbox froggy game.
                 *the flexbox adventure game on coding fantasy(finished the 1st mode)

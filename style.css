@@ -2,6 +2,7 @@
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -86,22 +87,19 @@ main div a:hover {
 /* gotopbtn */
 .gotopbtn {
   position: fixed;
-  width: 50px;
+  width: 60px;
   height: 60px;
   bottom: 60px;
   right: 5px;
   z-index: 2;
+
   border: 1px solid white;
   border-radius: 30px;
-  text-decoration: none;
   text-align: center;
-}
-
-.gotopbtn i {
-  line-height: 50px;
+  text-decoration: none;
+  line-height: 60px;
   color: rgb(238, 244, 244);
-  font-size: 20px;
-  z-index: 10;
+  font-size: 30px;
 }
 
 /* footer */
