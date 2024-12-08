@@ -87,15 +87,21 @@ main div a:hover {
 .gotopbtn {
   position: fixed;
   width: 50px;
-  height: 50px;
+  height: 60px;
   bottom: 60px;
-  background: rgba(135, 137, 183, 0.912);
   right: 5px;
+  z-index: 2;
+  border: 1px solid white;
+  border-radius: 30px;
+  text-decoration: none;
   text-align: center;
+}
+
+.gotopbtn i {
   line-height: 50px;
-  color: azure;
+  color: rgb(238, 244, 244);
   font-size: 20px;
-  z-index: 5;
+  z-index: 10;
 }
 
 /* footer */
