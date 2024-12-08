@@ -29,7 +29,7 @@ header a {
   letter-spacing: 1px;
 }
 
-div a:hover {
+header a:hover {
   text-decoration: underline;
 }
 
@@ -45,4 +45,21 @@ div a:hover {
   top: 50%;
   text-transform: uppercase;
   letter-spacing: 1px;
+  left: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 8rem;
+  gap: 0.5rem;
+}
+.home a {
+  border: 1px solid white;
+  padding: 1rem;
+  width: 15rem;
+  text-decoration: none;
+  color: white;
+}
+.home a:hover {
+  background-color: white;
+  color: black;
 }
