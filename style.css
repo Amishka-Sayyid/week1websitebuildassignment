@@ -80,3 +80,13 @@ main div a:hover {
 }
 
 /* footer */
+footer {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: rgba(240, 248, 255, 0.773);
+  background-color: rgb(0, 128, 85);
+}
