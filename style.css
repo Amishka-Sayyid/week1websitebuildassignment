@@ -16,9 +16,9 @@ header {
   justify-content: flex-start;
   align-items: center;
   left: 1rem;
-  color: white;
+  color: rgba(255, 255, 255, 0.858);
   gap: 2rem;
-  z-index: 1;
+  z-index: 2;
 }
 
 header a {
@@ -33,86 +33,26 @@ header a:hover {
   text-decoration: underline;
 }
 
-/* section 1  */
+/* main section */
 .section1 {
   background-image: url(./image.jpg);
   height: 100vh;
   background-size: cover;
   position: relative;
 }
-
-.home {
-  position: absolute;
-  top: 50%;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  left: 2rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  height: 8rem;
-  gap: 0.5rem;
-  text-align: left;
-  width: 20%;
-  color: white;
-}
-.home a {
-  border: 1px solid white;
-  padding: 1rem;
-  width: 15rem;
-  text-decoration: none;
-  color: white;
-}
-.home a:hover {
-  background-color: white;
-  color: black;
-}
-
-/* section 2 */
 .section2 {
-  background-image: url(./image2.webp);
+  background-image: url(./image4.jpg);
   height: 100vh;
   background-size: cover;
   position: relative;
 }
-
-.destinations {
-  position: absolute;
-  top: 50%;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  left: 2rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  height: 8rem;
-  gap: 0.5rem;
-  color: white;
-  text-align: left;
-  width: 20%;
-}
-.destinations a {
-  border: 1px solid white;
-  padding: 1rem;
-  width: 15rem;
-  text-decoration: none;
-  color: white;
-}
-.destinations a:hover {
-  background-color: white;
-  color: black;
-}
-
-/* section 3 */
-
 .section3 {
-  background-image: url(./image3.webp);
+  background-image: url(./image5.jpg);
   height: 100vh;
   background-size: cover;
   position: relative;
 }
-
-.services {
+main div {
   position: absolute;
   top: 50%;
   text-transform: uppercase;
@@ -123,18 +63,20 @@ header a:hover {
   justify-content: space-evenly;
   height: 8rem;
   gap: 0.5rem;
-  color: white;
   text-align: left;
   width: 20%;
+  color: white;
 }
-.services a {
+main div a {
   border: 1px solid white;
   padding: 1rem;
   width: 15rem;
   text-decoration: none;
   color: white;
 }
-.services a:hover {
+main div a:hover {
   background-color: white;
   color: black;
 }
+
+/* footer */
