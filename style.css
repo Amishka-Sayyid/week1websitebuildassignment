@@ -18,15 +18,31 @@ header {
   left: 1rem;
   color: white;
   gap: 2rem;
+  z-index: 1;
 }
 
-div a {
+header a {
   text-decoration: none;
   color: black;
   padding: 1.5rem;
   color: white;
+  letter-spacing: 1px;
 }
 
 div a:hover {
   text-decoration: underline;
+}
+
+.section1 {
+  background-image: url(./image1.jpg);
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+}
+
+.home {
+  position: absolute;
+  top: 50%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
