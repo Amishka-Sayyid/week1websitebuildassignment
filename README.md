@@ -34,7 +34,7 @@ Assignment reflection required
         Required
         🎯 What requirements did you achieve?
                 *done the user stories with all its requirements.
-                *for stretch goals done with 2 left with 3.
+                *for stretch goals done with 4/5 the last left is adding social media icons.
 
 
         🎯 Were there any requirements or goals that you were unable to achieve?
@@ -45,13 +45,19 @@ Assignment reflection required
                 *did the html course on codeacademy(halfway through).
                 *flexbox froggy game.
                 *the flexbox adventure game on coding fantasy(finished the 1st mode)
-                *finished the css diner (https://flukeout.github.io/)
+                *finished the css diner (https://flukeout.github.io/).
 
-
-        What errors or bugs did you encounter while completing your assignment? How did you solve them?
-        What went really well and what could have gone better?
-                *errors encountered was on css and what really helped me was the dev tool temporarily applying and editting the style there to see the changes it brought about especially the navbar and the text's inside the image helped a lot.
-                *for the audio found from the below link that i needed to make the display none as i had done the audio in html nxt just need to make the autoplay true.
+                 *for the audio found from the below link that i needed to make the display none as i had done the audio in html nxt just need to make the autoplay true.
                 https://stackoverflow.com/questions/15533636/playing-sound-in-hidden-tag
                 learnt about it while doing the codeacademy html course.
                 *Create a “back to top” button found a tutrial on youtube (https://youtu.be/Vef9bxTilCU?si=uT5AHRbZ3Wk5ftUC) was stuck mostly because of linking the style then  found link to the stylesheet here https://cdnjs.com/libraries/font-awesome.
+
+
+        What errors or bugs did you encounter while completing your assignment? How did you solve them?
+                *for internal linking i changed my classes to id only then was i able to link my sections to their correspondents.
+                *errors encountered was on css and what really helped me was the dev tool temporarily applying and editting the style there to see the changes it brought about especially the navbar and the text's inside the image helped a lot.
+
+        What went really well and what could have gone better?
+                most of the work went well just i spent a lot of time when doing each part , what could have gone better if i practice more and hopefully get better and effecient in doing the projects
+        what challenge did i try myself?
+                adding another page and linking back to the homepage. did that on about link in the navbar.
