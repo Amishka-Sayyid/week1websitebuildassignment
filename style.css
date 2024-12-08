@@ -35,7 +35,7 @@ header a:hover {
 
 /* section 1  */
 .section1 {
-  background-image: url(./image1.jpg);
+  background-image: url(./image.jpg);
   height: 100vh;
   background-size: cover;
   position: relative;
@@ -52,6 +52,9 @@ header a:hover {
   justify-content: space-evenly;
   height: 8rem;
   gap: 0.5rem;
+  text-align: left;
+  width: 20%;
+  color: white;
 }
 .home a {
   border: 1px solid white;
@@ -85,6 +88,8 @@ header a:hover {
   height: 8rem;
   gap: 0.5rem;
   color: white;
+  text-align: left;
+  width: 20%;
 }
 .destinations a {
   border: 1px solid white;
@@ -94,6 +99,42 @@ header a:hover {
   color: white;
 }
 .destinations a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* section 3 */
+
+.section3 {
+  background-image: url(./image3.webp);
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+}
+
+.services {
+  position: absolute;
+  top: 50%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  left: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 8rem;
+  gap: 0.5rem;
+  color: white;
+  text-align: left;
+  width: 20%;
+}
+.services a {
+  border: 1px solid white;
+  padding: 1rem;
+  width: 15rem;
+  text-decoration: none;
+  color: white;
+}
+.services a:hover {
   background-color: white;
   color: black;
 }
