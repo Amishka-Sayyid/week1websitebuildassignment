@@ -37,7 +37,7 @@ Assignment reflection required
                 *for stretch goals done with all 5 of them
 
         🎯 Were there any requirements or goals that you were unable to achieve?
-                none
+                when loading the page in github the songs starts a bit late not immediately.
         🎯 If so, what was it that you found difficult about these tasks?
         Requesting feedback about a specific part of your submission.
         What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
