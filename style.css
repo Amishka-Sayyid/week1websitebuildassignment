@@ -83,6 +83,20 @@ main div a:hover {
   background-color: white;
   color: black;
 }
+/* gotopbtn */
+.gotopbtn {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 60px;
+  background: rgba(135, 137, 183, 0.912);
+  right: 5px;
+  text-align: center;
+  line-height: 50px;
+  color: azure;
+  font-size: 20px;
+  z-index: 5;
+}
 
 /* footer */
 footer {

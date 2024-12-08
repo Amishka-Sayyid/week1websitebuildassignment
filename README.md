@@ -4,6 +4,7 @@ building out a website using html and css as assignment for software development
 
 User Stories
 🐿️ As a user, I want the web page to have a clear structure with a recognisable header, footer, and navigation sections, so that I can easily navigate and understand the content.
+
 🐿️ As a user, I want the layout and navigation links to be responsive and well-organised, so that I can easily access and interact with the website.
 🐿️ As a user, I want to see text overlaid on images or other elements in a visually appealing way, so that the content is engaging and enhances my browsing experience.
 🐿️ As a user, I want images to load correctly and be displayed properly on the web page, so that my viewing experience is seamless and visually pleasing.
@@ -53,3 +54,4 @@ Assignment reflection required
                 *for the audio found from the below link that i needed to make the display none as i had done the audio in html nxt just need to make the autoplay true.
                 https://stackoverflow.com/questions/15533636/playing-sound-in-hidden-tag
                 learnt about it while doing the codeacademy html course.
+                *Create a “back to top” button found a tutrial on youtube (https://youtu.be/Vef9bxTilCU?si=uT5AHRbZ3Wk5ftUC) no im stuck as i can't see the arrow inside but its functional when clicked im at top of page
