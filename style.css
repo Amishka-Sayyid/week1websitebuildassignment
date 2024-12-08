@@ -14,15 +14,19 @@ header {
   text-transform: uppercase;
   position: fixed;
   justify-content: flex-start;
+  align-items: center;
+  left: 1rem;
+  color: white;
+  gap: 2rem;
 }
 
-.nav a {
+div a {
   text-decoration: none;
   color: black;
   padding: 1.5rem;
-  top: 1rem;
+  color: white;
 }
 
-.nav a:hover {
+div a:hover {
   text-decoration: underline;
 }
