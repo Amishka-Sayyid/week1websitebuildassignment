@@ -38,3 +38,7 @@ Assignment reflection required
         What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
         What errors or bugs did you encounter while completing your assignment? How did you solve them?
         What went really well and what could have gone better?
+
+sources
+https://travel.earth/most-beautiful-places-in-the-uk/
+https://www.travelandleisure.com/trip-ideas/most-beautiful-places-in-the-world-to-visit
