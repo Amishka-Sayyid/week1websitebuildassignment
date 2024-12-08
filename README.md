@@ -34,10 +34,10 @@ Assignment reflection required
         Required
         🎯 What requirements did you achieve?
                 *done the user stories with all its requirements.
-                *for stretch goals done with 4/5 the last left is adding social media icons.
-
+                *for stretch goals done with all 5 of them
 
         🎯 Were there any requirements or goals that you were unable to achieve?
+                none
         🎯 If so, what was it that you found difficult about these tasks?
         Requesting feedback about a specific part of your submission.
         What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
@@ -60,4 +60,4 @@ Assignment reflection required
         What went really well and what could have gone better?
                 most of the work went well just i spent a lot of time when doing each part , what could have gone better if i practice more and hopefully get better and effecient in doing the projects
         what challenge did i try myself?
-                adding another page and linking back to the homepage. did that on about link in the navbar.
+                adding another page and linking back to the homepage.
