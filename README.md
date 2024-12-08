@@ -54,4 +54,4 @@ Assignment reflection required
                 *for the audio found from the below link that i needed to make the display none as i had done the audio in html nxt just need to make the autoplay true.
                 https://stackoverflow.com/questions/15533636/playing-sound-in-hidden-tag
                 learnt about it while doing the codeacademy html course.
-                *Create a “back to top” button found a tutrial on youtube (https://youtu.be/Vef9bxTilCU?si=uT5AHRbZ3Wk5ftUC) no im stuck as i can't see the arrow inside but its functional when clicked im at top of page
+                *Create a “back to top” button found a tutrial on youtube (https://youtu.be/Vef9bxTilCU?si=uT5AHRbZ3Wk5ftUC) was stuck mostly because of linking the style then  found link to the stylesheet here https://cdnjs.com/libraries/font-awesome.
